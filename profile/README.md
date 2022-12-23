@@ -10,4 +10,8 @@ The objectives are to develop knowledge, tools and an integrated research commun
 - Sustains soil biodiversity
 - Sustains soil functions that preserves ecosystem services  
 
+## Read more
+
+Read more about the project in [Cordis](https://cordis.europa.eu/project/id/862695) or the [project website](https://ejpsoil.eu/)
+
 ![H2020](https://ejpsoil.eu/fileadmin/_processed_/0/3/csm_Horizon_2020_funding_Thumbnail_a20cd538b7.jpg)
